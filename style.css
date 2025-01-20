@@ -351,8 +351,8 @@ article.icon {
 
 #projects {
     position: relative;
-    padding: 4rem 2rem; /* Add space around the content */
-    margin-bottom: 20rem; /* Create separation from the next section */
+    padding: 4rem 2rem;
+    margin-bottom: 20rem;
 }
 
 .project-details-container {
